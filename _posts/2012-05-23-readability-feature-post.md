@@ -4,7 +4,7 @@ title: "Post with Image Feature"
 date: 2012-05-23
 excerpt: "A ton of text to test readability with image feature."
 tags: [sample post, readability, test, image, feature]
-feature:  blog.github.io/assets/img/logo.png 
+feature:  assets/img/logo.png 
 comments: true
 ---
 
