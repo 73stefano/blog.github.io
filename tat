@@ -1,0 +1,237 @@
+[33mcommit 40630aac58f1357eacff1f54cd2e9969e8d3c978[m
+Author: 73stefano <stefano.pica73@gmail.com>
+Date:   Mon Apr 3 16:57:04 2017 +0200
+
+     Changes to be committed:
+            new file:   _posts/2017-4-03-Configuring VIM.md
+
+[33mcommit 997266df921eb739254fde7c62a6be48cdeb6d41[m
+Author: 73stefano <stefano.pica73@gmail.com>
+Date:   Mon Apr 3 16:41:22 2017 +0200
+
+     Changes to be committed:
+            new file:   index.md
+
+[33mcommit 1586793651184e5768770a103a08c82c8a4f9242[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Mon Apr 3 16:30:21 2017 +0200
+
+    Update nav.html
+
+[33mcommit d8ff28722510f6650f2bb80d07ca0adfeea70cb6[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Mon Apr 3 16:16:58 2017 +0200
+
+    Update social-links.html
+
+[33mcommit 4f4fbc523212a8e2201544ed99ae9680fef41d12[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Mon Apr 3 16:13:47 2017 +0200
+
+    Update social-links.html
+
+[33mcommit 9905b692ea9294cd94b8907398e1f5bd4fa7dc17[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Mon Apr 3 15:40:17 2017 +0200
+
+    Update index.md
+
+[33mcommit a5345b776ac6356631bf88b7926a6bbe072374c3[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Mon Apr 3 14:50:51 2017 +0200
+
+    Update post-list.html
+
+[33mcommit 15899c6e330225b0962152e18f52285dbcf9a20c[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Mon Apr 3 14:36:14 2017 +0200
+
+    Update nav.scss
+
+[33mcommit 4dae4fea612e9da777fa6f43c5065a15cf032075[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Mon Apr 3 14:34:20 2017 +0200
+
+    Update nav.scss
+
+[33mcommit 718eb5161378a57dfd0c8b46e9fc5d74a0174693[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Mon Apr 3 14:28:36 2017 +0200
+
+    Update nav.scss
+
+[33mcommit 5aeb332995c614e515b588a5a346922aae0b0bf7[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Sat Apr 1 19:45:03 2017 +0200
+
+    Update 2012-05-23-readability-feature-post.md
+
+[33mcommit 644b4f94573bcf10bf1bd93b8eeef858ac4f3300[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Sat Apr 1 16:58:18 2017 +0200
+
+    Update 2012-05-23-readability-feature-post.md
+
+[33mcommit c706efddb5d49dc1189f1e886c71848428097aea[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Sat Apr 1 16:56:02 2017 +0200
+
+    Update navigation.yml
+
+[33mcommit ee560d23b611f550eeb30a85ad222b249bb2ba34[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Sat Apr 1 16:26:21 2017 +0200
+
+    Update nav.scss
+    
+    change opacity
+
+[33mcommit 2ea6368083a4d320c5ce67b4f081c4393d59909b[m
+Merge: c8db256 1dd3f21
+Author: 73stefano <stefano.pica73@gmail.com>
+Date:   Sat Apr 1 16:01:06 2017 +0200
+
+    Merge branch 'master' of https://github.com/73stefano/73stefano.github.io
+
+[33mcommit c8db2567559a2abe12cdf05aee6b6560fcd7564a[m
+Author: 73stefano <stefano.pica73@gmail.com>
+Date:   Sat Apr 1 16:00:08 2017 +0200
+
+     Changes to be committed:
+            modified:   assets/img/logo.png
+
+[33mcommit 1dd3f21caadefdfaf77bbdaa8ae7b5039c629db7[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Sat Apr 1 15:53:45 2017 +0200
+
+    Update _config.yml
+
+[33mcommit e9c9a45bf4a52919c282c068dae8343504d6caaa[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Sat Apr 1 15:49:37 2017 +0200
+
+    Update index.md
+
+[33mcommit 0a66e3b4b541964590bf261fdc5e3b229522dc76[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Sat Apr 1 15:44:42 2017 +0200
+
+    Update index.md
+
+[33mcommit b4d465276f55cad78a933cdc061965ec31dbf18a[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Sat Apr 1 15:31:16 2017 +0200
+
+    Update nav.scss
+    
+    change opacity
+
+[33mcommit 5cef287a5c844234bbc877903bbbc9dd74d1a524[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Fri Mar 31 16:51:11 2017 +0200
+
+    Update _config.yml
+
+[33mcommit 6f8567b5c0769a81438f1b0754f7c9cc5815daa9[m
+Author: 73stefano <stefano.pica73@gmail.com>
+Date:   Fri Mar 31 16:43:55 2017 +0200
+
+    add moon
+
+[33mcommit 543b7342d7e16f1c538308cf8b59531102b25ea0[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Fri Mar 31 16:04:40 2017 +0200
+
+    Delete README.md
+
+[33mcommit 5cf3f94b88b6e8b2635ab431c3c85a4f6c96baf3[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Fri Mar 31 16:04:24 2017 +0200
+
+    Delete _config.yml
+
+[33mcommit 2d564d14d794fabc40b57c8fe3b5feb9dbb501c7[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Fri Mar 24 15:31:29 2017 +0100
+
+    Update README.md
+    
+    add link
+
+[33mcommit 5b0bdd164a3d8685ef680d448b6bc92538f2a3f0[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Wed Mar 22 16:03:47 2017 +0100
+
+    Delete index.html
+
+[33mcommit 9415c41906c08206f88370e22eba5b7912ba23cd[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Wed Mar 22 16:01:52 2017 +0100
+
+    Set theme jekyll-theme-architect
+
+[33mcommit 7d1068d09917d92eeadf668186120f5d7ada49df[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Wed Mar 22 15:50:09 2017 +0100
+
+    Create index.html
+
+[33mcommit 96eb571ca3780d77554d813c42d09eea03be4c60[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Wed Mar 22 15:48:01 2017 +0100
+
+    Set theme jekyll-theme-architect
+
+[33mcommit 100ee19312c93a1c0e9222d4f26502fec5d94ef7[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Wed Mar 22 15:45:47 2017 +0100
+
+    Update README.md
+
+[33mcommit de2f2d1bf14cb9b70709cb0d8c7c1965a6963fa9[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Wed Mar 22 15:44:52 2017 +0100
+
+    Update README.md
+
+[33mcommit e86cf1e695cc506dcd27d9789021e476294c1c4a[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Wed Mar 22 15:43:41 2017 +0100
+
+    up readme
+
+[33mcommit 1ca1e2905af1b52c95e1f3d5b31c7d34fdffb0fd[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Wed Mar 22 15:37:04 2017 +0100
+
+    Update README.md
+
+[33mcommit 12a73575ed9c2dca3381e3418bf79dffc33e31e6[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Tue Mar 7 19:04:09 2017 +0100
+
+    Set theme jekyll-theme-architect
+
+[33mcommit 3a4ab25c3c0691b7d8010ba8df74a01acd8265a4[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Tue Mar 7 18:46:06 2017 +0100
+
+    add con prova
+
+[33mcommit 854660544603606436dcae0b5afdac39d8cbc54c[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Tue Mar 7 17:11:15 2017 +0100
+
+    Update README.md
+
+[33mcommit b7c6f0a088e58f4edad6d415d9a8210204dd4788[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Tue Mar 7 16:23:17 2017 +0100
+
+    Update README.md
+
+[33mcommit 948a6e51a7f9c36baffae62673073374dc520b51[m
+Author: 73stefano <stefano.pica@icloud.com>
+Date:   Tue Mar 7 16:20:07 2017 +0100
+
+    Initial commit
