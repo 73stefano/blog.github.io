@@ -6,8 +6,8 @@ date: 2016-03-21
 comments: false
 ---
 <figure>
-	<a href="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg"><img 
-src="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg"></a>
+	<a href="https://drive.google.com/open?id=0B92ew7WUAVtqY1I0el9fZjFrUjQ"><img 
+src="https://drive.google.com/open?id=0B92ew7WUAVtqY1I0el9fZjFrUjQ"></a>
 </figure>
     
 
