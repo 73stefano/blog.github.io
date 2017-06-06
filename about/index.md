@@ -9,7 +9,7 @@ comments: false
 <figure>
 	<a href="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpeg"><img 
     src="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpeg"></a>
-</figure>
+    </figure>
 
 ***
 
