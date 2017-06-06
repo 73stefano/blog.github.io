@@ -3,8 +3,8 @@ layout: post
 title: "Configuring ViM: my .vimrc explained"
 categories: Programming
 author: stefano_pica
+tags: [code,]
 comments: true
-tags:[code]
 ---
 
 [ViM](http://www.vim.org) is one of the most popular text editors for 
