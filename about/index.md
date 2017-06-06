@@ -6,12 +6,12 @@ date: 2016-03-21
 comments: false
 ---
 <figure>
-	<a href="/Things/25998603.jpeg"><img 
-src="/Things/25998603.jpeg"></a>
+	<a href="/Things/25998603.jpg"><img 
+src="/Things/25998603.jpg"></a>
     </figure>
 
 ***
-![](http://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpeg)
+![](http://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg)
 
 ***
 
