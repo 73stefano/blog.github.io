@@ -10,8 +10,8 @@ comments: false
 
 
 <figure>
-	<a href="https://www.flickr.com/photos/155440036@N07/35135775505/in/dateposted-public/"><img 
-src="https://www.flickr.com/photos/155440036@N07/35135775505/in/dateposted-public/"></a>
+	<a href="https://c1.staticflickr.com/5/4225/35135775505_193dc981dc.jpg"><img 
+src="https://c1.staticflickr.com/5/4225/35135775505_193dc981dc.jpg"></a>
 </figure>
     
 
