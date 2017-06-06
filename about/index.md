@@ -5,11 +5,12 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
+
 <figure>
 	<a href="https://github.com/73stefano/blog.github.io/blob/master/Things/IMG_1146.JPG"><img 
 
 ***
-***
+
 ### About me
 
 Computer Science and Automation Engineering student with head in the Cloud. 
