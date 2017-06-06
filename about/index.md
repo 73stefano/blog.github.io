@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: post
 title: About 
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
 
-<figure class="half">
+<figure>
 	<a href="https://github.com/73stefano/blog.github.io/blob/master/Things/IMG_1146.JPG"><img 
     src="https://github.com/73stefano/blog.github.io/blob/master/Things/IMG_1146.JPG"></a>
 </figure>
