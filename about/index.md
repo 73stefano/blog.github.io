@@ -5,20 +5,13 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-#A
 
-<figure class="half">
-    <a href="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg"><img src="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg"></a>
-    <figcaption> two images.</figcaption>
-</figure>
-
-#A
 
 
 
 <figure>
-	<a href="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg"><img 
-src="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg"></a>
+	<a href="https://www.flickr.com/photos/155440036@N07/35135775505/in/dateposted-public/"><img 
+src="https://www.flickr.com/photos/155440036@N07/35135775505/in/dateposted-public/"></a>
 </figure>
     
 
