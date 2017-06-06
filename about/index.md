@@ -5,20 +5,21 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-{% capture images %}
-    https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-
-
+#A
+{% highlight html %}
+<figure class="half">
+    <a href="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg"><img src="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg"></a>
+    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+{% endhighlight %}
+#A
 
 
 
 <figure>
-	<a href="blog.github.io/Things/25998603.jpg"><img 
-src="blog.github.io/Things/25998603.jpg"></a>
+	<a href="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg"><img 
+src="https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpg"></a>
 </figure>
     
 
