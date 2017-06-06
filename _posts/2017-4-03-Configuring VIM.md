@@ -134,6 +134,6 @@ fold a function definition, a block of code, ...), but it is disabled at
 startup. I also remap `zA` to spacebar to toggle folding.
 
 Okay...you are ready (and free) to take what you like from my `.vimrc`, which is
-available [here](https://gist.github.com/childerico/1da555429dd8f16ca82adeaeb06a12ac).
+available [here](https://github.com/73stefano/vimrc/blob/master/vimrc).
 If you have other tricks to suggest, post a comment!
 
