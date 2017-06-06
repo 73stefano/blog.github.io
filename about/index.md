@@ -11,7 +11,8 @@ src="/Things/25998603.jpeg"></a>
     </figure>
 
 ***
-
+![](https://github.com/73stefano/blog.github.io/blob/master/Things/25998603.jpeg)
+***
 ### About me
 
 Computer Science and Automation Engineering student with head in the Cloud. 
