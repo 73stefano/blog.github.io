@@ -5,24 +5,20 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-
-
-
-
-<figure>
-	<a href="https://c1.staticflickr.com/5/4225/35135775505_193dc981dc.jpg"><img 
-src="https://c1.staticflickr.com/5/4225/35135775505_193dc981dc.jpg"></a>
-</figure>
-    
-
-***
-***
+*** 
 
 <figure>
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"></a>
 	
 </figure>
 
+***
+
+ <figure >
+    <a href="https://c1.staticflickr.com/5/4225/35135775505_193dc981dc.jpg"><img 
+    src="https://c1.staticflickr.com/5/4225/35135775505_193dc981dc.jpg"></a>
+    </figure> 
+    
 ***
 
 ### About me
